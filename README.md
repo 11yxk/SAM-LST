@@ -20,7 +20,7 @@ python test.py --is_savenii --output_dir <Your output directory> --my_ckpt <ckpt
 
 ### Pretrained Models
 
-- Pretrained Models are available at .
+- Pretrained Models are available at https://drive.google.com/file/d/1sjZhgp02j4Pp_Uvk5Bhg50bELafWu-sR/view?usp=drive_link.
 
 
 ## Acknowledgements
