@@ -5,7 +5,7 @@ Pytorch implementation of paper ''AAA''.
 
 
 # Data Preparation
-We borrow the data process from [SAMed]([https://github.com/hitachinsk/SAMed)).
+We borrow the data process from [SAMed](https://github.com/hitachinsk/SAMed).
 # Training & Testing
 
 ### Training
