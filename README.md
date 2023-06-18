@@ -1,7 +1,8 @@
 # SAM-LST
 
 Pytorch implementation of paper ''AAA''.
-We will update the code progressively.
+
+We will update the code progressively and upload our technic report soon.
 
 
 # Data Preparation
