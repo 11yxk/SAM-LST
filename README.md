@@ -1,6 +1,6 @@
 # SAM-LST
 
-Pytorch implementation of paper ''AAA''.
+Pytorch implementation of paper ''Ladder Fine-tuning approach for SAM integrating complementary network''.
 
 We will update the code progressively and upload our technic report soon.
 
