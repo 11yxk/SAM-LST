@@ -5,6 +5,7 @@ Pytorch implementation of paper [Ladder Fine-tuning approach for SAM integrating
 We will update the code progressively.
 
 
+![overview](https://github.com/11yxk/SAM-LST/blob/main/overview.png)
 # Data Preparation
 We borrow the data process from [SAMed](https://github.com/hitachinsk/SAMed).
 # Training & Testing
