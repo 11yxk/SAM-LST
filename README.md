@@ -2,7 +2,7 @@
 
 Pytorch implementation of paper [Ladder Fine-tuning approach for SAM integrating complementary network](http://arxiv.org/abs/2306.12737).
 
-We will update the code progressively and upload our technic report soon.
+We will update the code progressively.
 
 
 # Data Preparation
